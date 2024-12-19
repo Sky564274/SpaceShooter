@@ -12,5 +12,4 @@ todo:
 
 -make levels
 
-
-v0.1
+SpaceShooter (v0.1)
