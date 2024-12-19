@@ -6,7 +6,8 @@ c++ raylib space shooter,
  
  (run) ./main
 
+todo:
 
-change assests
+-change assests
 
-make levels
+-make levels
