@@ -18,5 +18,5 @@ SpaceShooter (v0.1)
 
 
 
-![screenshot](screenshot/screenshot.png)
+![screenshot](https://github.com/user-attachments/assets/ab8da156-e2a0-4f88-8ed7-a20192b4dcc5)
 
