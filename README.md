@@ -1,8 +1,8 @@
 c++ raylib space shooter,
+ 
 
-get it to build :/ currently does not build errors
+(Compile Command Linux) g++ main.cpp player.cpp scene.cpp game_object.cpp -o main -Iinclude -Llib -lraylib
 
-(Compile Command Linux) g++ main.cpp -o main -Iinclude -Llib -lraylib
  
  (run) ./main
 
