@@ -12,7 +12,8 @@ todo:
 
 -make levels
 
--add movement
+-<strike>add movement</strike>
+
 
 SpaceShooter (v0.1)
 
