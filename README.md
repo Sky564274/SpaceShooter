@@ -7,10 +7,10 @@
 
 <br />(Compile Command Linux) g++ main.cpp player.cpp scene.cpp game_object.cpp -o main -Iinclude -Llib -lraylib<br />
 
- (run) ./main
-
+ <br />(run) ./main<br />
+<br />:or double click on main and exacute should work<br />
 <br />todo:<br />
-change asssets
+change assets
 <br />-make levels<br />
 -<strike>add movement</strike>
   
@@ -19,9 +19,9 @@ change asssets
 -added movement (keyboard) WASD to move, Controller should work
 <br />-change spaceship<br />
 
-<br />*SpaceShooter (v0.1)<br />
--first release
+*SpaceShooter (v0.1)
+<br />-first release<br />
 
 
 
-
+notes: in releases click on tags
