@@ -16,7 +16,11 @@ todo:
 
 SpaceShooter (v0.1)
 
+v0.2 
 
+-added movement
+
+-change spaceship
 
 ![screenshot](https://github.com/user-attachments/assets/ab8da156-e2a0-4f88-8ed7-a20192b4dcc5)
 
