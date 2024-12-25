@@ -6,8 +6,8 @@
 
 
 <br />(Compile Command Linux) g++ main.cpp player.cpp scene.cpp game_object.cpp -o main -Iinclude -Llib -lraylib<br />
+<br />(run) ./main<br />
 
- <br />(run) ./main<br />
 <br />:or double click on main and exacute should work<br />
 <br />todo:<br />
 change assets
@@ -24,4 +24,4 @@ change assets
 
 
 
-notes: in releases click on tags
+notes: download source code run main or build it
